@@ -16,6 +16,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Bloody extends JavaPlugin implements Listener
 {
 	private String title = "§e[§a§lBloody§e]§r";
+	
     @Override
     public void onEnable()
     {
