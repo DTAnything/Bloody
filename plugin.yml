@@ -1,0 +1,7 @@
+name: Bloody
+main: com.github.DTAnything.Bloody.Bloody
+version: 1.0.0
+commands:
+  bloody:
+    usage: /bloody
+    description: 重载插件
