@@ -1,6 +1,7 @@
 name: Bloody
 main: com.github.DTAnything.Bloody.Bloody
-version: 1.0.0
+version: 1.1.0
+author: DT_Anything
 commands:
   bloody:
     usage: /bloody
